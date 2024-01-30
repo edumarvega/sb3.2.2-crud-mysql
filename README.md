@@ -8,15 +8,23 @@ REQUERIMIENTOS MINIMOS:
 
 -Motor de base de datos mysql.
 
-Paso 1: git clone https://github.com/edumarvega/sb3.2.2-crud-mysql.git
+Paso 1: 
 
-Paso 2: git switch master
+git clone https://github.com/edumarvega/sb3.2.2-crud-mysql.git
 
-Paso 3: Posicionarse dentro del proyecto donde esta el pom.xml y ejecutar el siguiente comando:
+Paso 2: 
+
+git switch master
+
+Paso 3: 
+
+Posicionarse dentro del proyecto donde esta el pom.xml y ejecutar el siguiente comando:
 
 cd sb3.2.2-crud-mysql
 
-Paso 4: Levantar la api
+Paso 4: 
+
+Levantar la api
 
 mvnw spring-boot:run
 
